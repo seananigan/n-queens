@@ -4,6 +4,9 @@
 
 # N Queens
 
+D-Wave code that has been adapted slightly to run on our team's machines and create a consistent environment for testing the runtimes of different sized n.
+The rest of this readme was written by the original authors.
+
 The [n-queens problem](https://en.wikipedia.org/wiki/Eight_queens_puzzle) refers
 to the problem of placing n queens on an n*n chessboard, such that no two queens
 are able to attack each other.
