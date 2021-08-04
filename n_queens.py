@@ -205,7 +205,8 @@ def get_sanitized_input():
         return n
 
 if __name__ == "__main__":
-    n = get_sanitized_input()
+    # n = get_sanitized_input()
+    n = 0
 
     if n > 20:
         print("Solution image is large and may be difficult to view.")
